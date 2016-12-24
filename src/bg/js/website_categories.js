@@ -6,21 +6,38 @@ const WEBSITE_CATEGORIES = {
         "*.jsfiddle.net",
         "*.codepen.io",
         "*.mozilla.org",
-        "*.codecademy.com"
+        "*.codecademy.com",
+        "*khanacademy.org"
     ],
     productivity: [
         "*.slack.com",
         "*.trello.com",
         "*.skype.com",
         "*.stackexchange.com",
-        "*.wikipedia.org"
+        "*.wikipedia.org",
+        "*docs.google.com",
+        "*slides.google.com",
+        "*audible.com",
+        "*ted.com",
+        "*sporcle.com",
+        "*khanacademy.org"
+        "*wix.com"
     ],
     search: [
         "www.google.com",
         "google.com",
         "*.bing.com",
         "*.yahoo.com",
-        "*.duckduckgo.com"
+        "*.duckduckgo.com",
+        "*baidu.com",
+        "*Ask.com",
+        "*aol.com",
+        "*msxml.excite.com",
+        "*wolframalpha.com",
+        "*yandex.com",
+        "*lycos.com",
+        "*chacha.com"
+        
     ],
     social: [
         "*.twitter.com",
@@ -32,6 +49,7 @@ const WEBSITE_CATEGORIES = {
         "*.skype.com",
         "*.youtube.com",
         "*.steamcommunity.com"
+        "*wix.com"
     ],
     gaming: [
         "*.steampowered.com",
@@ -50,14 +68,22 @@ const WEBSITE_CATEGORIES = {
         "*.netflix.com",
         "*.youtube.com",
         "*.hulu.com",
-        "*.vimeo.com"
+        "*.vimeo.com",
+        "*tripadvisor.com",
+        "*sporcle.com"
     ],
     commerce: [
         "*.paypal.com",
         "*.upromise.com",
         "*.chase.com",
         "*.visa.com",
-        "*.amazon.com"
+        "*.amazon.com",
+        "*americanexpress.com",
+        "*ebay.com",
+        "*tripadvisor.com",
+        "*squarespace.com",
+        "*wix.com",
+        "*bigcommerce.com"
     ],
     adult: [
         "*.pornhub.com",
