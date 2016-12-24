@@ -12,7 +12,8 @@ const WEBSITE_CATEGORIES = {
         "*slack.com",
         "*trello.com",
         "*skype.com",
-        "*stackexchange.com"
+        "*stackexchange.com",
+        "*wikipedia.org"
     ],
     search: [
         "www.google.com",
@@ -46,7 +47,11 @@ const WEBSITE_CATEGORIES = {
         "*neoseeker.com"    
     ],
     commerce: [
-        "*paypal.com"
+        "*paypal.com",
+        "*upromise.com",
+        "*chase.com",
+        "*visa.com",
+        "*amazon.com"
     ],
     adult: [
         "*pornhub.com",
