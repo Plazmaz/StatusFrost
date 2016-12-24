@@ -39,9 +39,11 @@ const WEBSITE_CATEGORIES = {
         "*gamepedia.com",
         "*minecraft.net",
         "*mojang.com"
-    ],
-    commerce: [
-        "*paypal.com"
+        "*ign.com"
+        "*gamefaqs.com"
+        "*kotaku.com"
+        "*n4g.com"
+        "*neoseeker.com"
     ],
     adult: [
         "*pornhub.com",
