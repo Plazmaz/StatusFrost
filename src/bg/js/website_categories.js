@@ -38,11 +38,11 @@ const WEBSITE_CATEGORIES = {
         "*curseforge.com",
         "*gamepedia.com",
         "*minecraft.net",
-        "*mojang.com"
-        "*ign.com"
-        "*gamefaqs.com"
-        "*kotaku.com"
-        "*n4g.com"
+        "*mojang.com",
+        "*ign.com",
+        "*gamefaqs.com",
+        "*kotaku.com",
+        "*n4g.com",
         "*neoseeker.com"
     ],
     adult: [
