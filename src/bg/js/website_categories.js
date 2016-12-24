@@ -43,7 +43,10 @@ const WEBSITE_CATEGORIES = {
         "*gamefaqs.com",
         "*kotaku.com",
         "*n4g.com",
-        "*neoseeker.com"
+        "*neoseeker.com"    
+    ],
+    commerce: [
+        "*paypal.com"
     ],
     adult: [
         "*pornhub.com",
